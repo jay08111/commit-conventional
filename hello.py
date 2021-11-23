@@ -1,2 +1,3 @@
-for _ in range(1,11):
-    print('This is me from main  branch');
+for j  in range(1,11):
+     if j%2==0:
+        print('This is {} from conflict1 branch.format(j)');
